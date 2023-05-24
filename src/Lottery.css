@@ -1,0 +1,19 @@
+.Lottery-header {
+    font-size: 2.4em;
+    margin-bottom: 1.5em;
+    color: rgb(37, 145, 37);
+}
+
+.Lottery-numbers {
+    max-width: 960px;
+}
+
+.Lottery-button {
+    padding: 1em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 50%;
+    font-size: 1.1em;
+    margin-top: 2.5em;
+    color: white;
+    background-color: black;
+}
